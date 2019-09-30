@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My Theme Hugo Site"
+theme = "astral"
+
+[params]
+  name = "Cho "
+  description = "Astral Project"
+  copyright = "hugo&html5up"
